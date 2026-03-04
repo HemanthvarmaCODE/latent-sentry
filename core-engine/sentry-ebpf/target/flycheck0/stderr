@@ -1,0 +1,116 @@
+   1.157004500s  INFO prepare_target{force=false package_id=sentry-ebpf v0.1.0 (\\wsl.localhost\Ubuntu\home\broezzform\latent-sentry\core-engine\sentry-ebpf) target="sentry-ebpf"}: cargo::core::compiler::fingerprint: fingerprint error for sentry-ebpf v0.1.0 (\\wsl.localhost\Ubuntu\home\broezzform\latent-sentry\core-engine\sentry-ebpf)/Check { test: false }/TargetInner { name: "sentry-ebpf", doc: true, ..: with_path("\\\\wsl.localhost\\Ubuntu\\home\\broezzform\\latent-sentry\\core-engine\\sentry-ebpf\\src\\main.rs", Edition2021) }
+   1.157076800s  INFO prepare_target{force=false package_id=sentry-ebpf v0.1.0 (\\wsl.localhost\Ubuntu\home\broezzform\latent-sentry\core-engine\sentry-ebpf) target="sentry-ebpf"}: cargo::core::compiler::fingerprint:     err: failed to read `\\wsl.localhost\Ubuntu\home\broezzform\latent-sentry\core-engine\sentry-ebpf\target\debug\.fingerprint\sentry-ebpf-f52f0b24dd802110\bin-sentry-ebpf`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   1.197561500s  INFO prepare_target{force=false package_id=aya-ebpf v0.1.2 (https://github.com/aya-rs/aya?branch=main#db64fcf7) target="aya_ebpf"}: cargo::core::compiler::fingerprint: fingerprint error for aya-ebpf v0.1.2 (https://github.com/aya-rs/aya?branch=main#db64fcf7)/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("aya_ebpf", ["lib"], "C:\\Users\\heman\\.cargo\\git\\checkouts\\aya-c5ab473414e1dedb\\db64fcf\\ebpf\\aya-ebpf\\src\\lib.rs", Edition2024) }
+   1.197622400s  INFO prepare_target{force=false package_id=aya-ebpf v0.1.2 (https://github.com/aya-rs/aya?branch=main#db64fcf7) target="aya_ebpf"}: cargo::core::compiler::fingerprint:     err: failed to read `\\wsl.localhost\Ubuntu\home\broezzform\latent-sentry\core-engine\sentry-ebpf\target\debug\.fingerprint\aya-ebpf-7284e1c7ec5fa01e\lib-aya_ebpf`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   2.280252200s  INFO prepare_target{force=false package_id=aya-log-ebpf v0.1.2 (https://github.com/aya-rs/aya?branch=main#db64fcf7) target="aya_log_ebpf"}: cargo::core::compiler::fingerprint: fingerprint error for aya-log-ebpf v0.1.2 (https://github.com/aya-rs/aya?branch=main#db64fcf7)/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("aya_log_ebpf", ["lib"], "C:\\Users\\heman\\.cargo\\git\\checkouts\\aya-c5ab473414e1dedb\\db64fcf\\ebpf\\aya-log-ebpf\\src\\lib.rs", Edition2024) }
+   2.280289100s  INFO prepare_target{force=false package_id=aya-log-ebpf v0.1.2 (https://github.com/aya-rs/aya?branch=main#db64fcf7) target="aya_log_ebpf"}: cargo::core::compiler::fingerprint:     err: failed to read `\\wsl.localhost\Ubuntu\home\broezzform\latent-sentry\core-engine\sentry-ebpf\target\debug\.fingerprint\aya-log-ebpf-9b6693aa4184458b\lib-aya_log_ebpf`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_path
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: git_filter_source_repo
+  15: <unknown>
+  16: <unknown>
+  17: git_midx_writer_dump
+  18: git_filter_source_repo
+  19: git_midx_writer_dump
+  20: BaseThreadInitThunk
+  21: RtlUserThreadStart
+   2.316813800s  INFO prepare_target{force=false package_id=sentry-ebpf v0.1.0 (\\wsl.localhost\Ubuntu\home\broezzform\latent-sentry\core-engine\sentry-ebpf) target="sentry-ebpf"}: cargo::core::compiler::fingerprint: fingerprint error for sentry-ebpf v0.1.0 (\\wsl.localhost\Ubuntu\home\broezzform\latent-sentry\core-engine\sentry-ebpf)/Check { test: true }/TargetInner { name: "sentry-ebpf", doc: true, ..: with_path("\\\\wsl.localhost\\Ubuntu\\home\\broezzform\\latent-sentry\\core-engine\\sentry-ebpf\\src\\main.rs", Edition2021) }
+   2.316846500s  INFO prepare_target{force=false package_id=sentry-ebpf v0.1.0 (\\wsl.localhost\Ubuntu\home\broezzform\latent-sentry\core-engine\sentry-ebpf) target="sentry-ebpf"}: cargo::core::compiler::fingerprint:     err: failed to read `\\wsl.localhost\Ubuntu\home\broezzform\latent-sentry\core-engine\sentry-ebpf\target\debug\.fingerprint\sentry-ebpf-2242b522ca4b86b4\test-bin-sentry-ebpf`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+    Checking aya-ebpf v0.1.2 (https://github.com/aya-rs/aya?branch=main#db64fcf7)
+error: could not compile `aya-ebpf` (lib) due to 23 previous errors

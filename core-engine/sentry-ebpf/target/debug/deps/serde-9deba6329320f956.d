@@ -1,0 +1,14 @@
+/home/broezzform/latent-sentry/core-engine/sentry-ebpf/target/debug/deps/serde-9deba6329320f956.d: /home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/broezzform/latent-sentry/core-engine/sentry-ebpf/target/debug/build/serde-3c3615d0db25770c/out/private.rs
+
+/home/broezzform/latent-sentry/core-engine/sentry-ebpf/target/debug/deps/libserde-9deba6329320f956.rlib: /home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/broezzform/latent-sentry/core-engine/sentry-ebpf/target/debug/build/serde-3c3615d0db25770c/out/private.rs
+
+/home/broezzform/latent-sentry/core-engine/sentry-ebpf/target/debug/deps/libserde-9deba6329320f956.rmeta: /home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/broezzform/latent-sentry/core-engine/sentry-ebpf/target/debug/build/serde-3c3615d0db25770c/out/private.rs
+
+/home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/broezzform/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/broezzform/latent-sentry/core-engine/sentry-ebpf/target/debug/build/serde-3c3615d0db25770c/out/private.rs:
+
+# env-dep:OUT_DIR=/home/broezzform/latent-sentry/core-engine/sentry-ebpf/target/debug/build/serde-3c3615d0db25770c/out
