@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background:#020617;
+  color:white;
+  font-family: ui-monospace, monospace;
+}
+
+/* SOC grid background */
+
+body::before{
+  content:"";
+  position:fixed;
+  inset:0;
+  background-image:
+  linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px),
+  linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px);
+  background-size:40px 40px;
+  pointer-events:none;
+}
+
+/* blinking sensor */
+
+.sensor{
+  animation:blink 1s infinite;
+}
+
+@keyframes blink{
+  0%{opacity:1}
+  50%{opacity:.4}
+  100%{opacity:1}
+}
+
+/* alert glow */
+
+.alert-glow{
+  animation:pulse 1.5s infinite;
+}
+
+@keyframes pulse{
+  0%{box-shadow:0 0 5px #ef4444}
+  50%{box-shadow:0 0 20px #ef4444}
+  100%{box-shadow:0 0 5px #ef4444}
+}
